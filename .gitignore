@@ -1,6 +1,4 @@
-__pycache__/ 
-*.pyc 
-.streamlit/ 
-logs/ 
-models/ 
-data/ 
+__pycache__/
+*.pyc
+.streamlit/
+logs/
