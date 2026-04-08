@@ -7,7 +7,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-189AB4?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**A production-grade, three-layer credit risk intelligence platform built for Indian banks (HDFC · ICICI · SBI)**
+**A production-grade, three-layer credit risk intelligence platform built for Banks**
 
 [Features](#-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Dashboard](#-dashboard) · [Models](#-models)
 
@@ -205,5 +205,5 @@ MIT — free to use, modify, and deploy.
 ---
 
 <div align="center">
-Built with ❤️ for Indian banking · DCRIS v2.1
+Built with ❤️ for Banking · DCRIS v2.1
 </div>
