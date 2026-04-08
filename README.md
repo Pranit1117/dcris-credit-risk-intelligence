@@ -27,6 +27,12 @@ DCRIS goes far beyond traditional loan default prediction. It delivers a **three
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[Launch DCRIS Dashboard](https://dcris-credit-risk-intelligence-jr4nqni73jdm8k4jlinhja.streamlit.app/)**
+
+> First load takes ~2 minutes as models train automatically on the cloud.
+
 ## ✨ Features
 
 | Layer | Method | Output |
