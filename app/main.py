@@ -154,8 +154,7 @@ import os, sys
 # Add the project root (dcris/) to path so all imports work
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, BASE_DIR)
-from app.startup import ensure_models_exist
-ensure_models_exist()
+
 
 # Page imports
 from app.pages import home, predict, analytics, explainability
