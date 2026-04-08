@@ -236,10 +236,11 @@ def render():
 
         with col4:
             fig_bal = px.scatter(
-                df.sample(min(2000, len(df)), random_state=1),
-                x="balance_trend", y="default_probability",
-                color="risk_segment", color_discrete_map=COLOR_MAP,
-                opacity=0.5,
+            df.sample(min(2000, len(df)), random_state=1),
+            x="balance_trend", y="default_probability",
+            color="risk_segment", color_discrete_map=COLOR_MAP,
+            opacity=0.5,
+        )
                 trendline="lowess",
             )
             fig_bal.update_traces(marker=dict(size=3))
